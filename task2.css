@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    
+}
+th,td{
+    border: 1px solid black;
+}
+li{
+    list-style: none;
+}
